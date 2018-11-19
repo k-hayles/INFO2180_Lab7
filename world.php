@@ -1,5 +1,7 @@
 <?php
 
+
+$country = $_GET['country'];
 $host = getenv('IP');
 $username = getenv('C9_USER');
 $password = '';
